@@ -1,6 +1,6 @@
 {
   "product": "Tontrans Desktop",
-  "version": "v5.7.6",
+  "version": "v5.7.7",
   "architecture": "windows-x86_64",
   "entrypoint": "TontransDesktop.exe",
   "format": "portable-standalone",
@@ -372,13 +372,13 @@
     },
     {
       "path": "TontransDesktop.exe",
-      "bytes": 29646336,
-      "sha256": "4947dc7f43e5e48835df67f2ac7042b5e630a8a7569c862d5441d63568085527"
+      "bytes": 29664768,
+      "sha256": "fed127f754e1da726e123371090877921b1381eb5a636e46f485b91c2780abe7"
     },
     {
       "path": "TontransUpdater.exe",
       "bytes": 23552,
-      "sha256": "68f65e695f9225aeb1529500f094fb053dd2eabd7ae60db7b70f86681e4d548c"
+      "sha256": "103a85b6720bff64b7a06257800c572ccd1d3710f816aba9accb23952e871e79"
     },
     {
       "path": "unicodedata.pyd",
